@@ -22,7 +22,7 @@ pod "CWCollectionViewNumbered"
 
 ## Author
 
-bergmpe, bergmpe@gmail.com
+Williamberg Farias, bergmpe@gmail.com
 
 ## License
 
