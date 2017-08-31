@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CWCollectionViewNumbered_Example' do
+  pod 'CWCollectionViewNumbered', :path => '../'
+
+  target 'CWCollectionViewNumbered_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
